@@ -8,11 +8,11 @@ title: about
 </p>
 
 <h3>성균관대학교 소프트웨어학과 18학번</h3>
+<h4>2021.07.28 ~ 육군 복무</h4>
 
-<h5>개발 경험</h5>
+<h5>프로젝트</h5>
 
-* 꿈꾸는 개발자([https://devdreamers.kr/](https://devdreamers.kr/)) 대표 - 기획, 디자인, 풀스택 개발 담당 (Django, Django Template)
-* 비트코인 자동매매 개발 중
+* 꿈꾸는 개발자([https://devdreamers.kr/](https://devdreamers.kr/)) 팀장 - 기획, 디자인, 풀스택 개발 담당 (Django, Django Template)
 
 <h3>관심 분야</h3>
 
@@ -26,5 +26,5 @@ title: about
 
 * Django
 * Pytorch
-* Tesonflow
+* Tensorflow
 * Docker
